@@ -1,6 +1,6 @@
 # 👨‍💻 Lautaro Montaña — Full Stack Web Developer e Instructor de Programación
 
-¡Hola! Soy **Lautaro Montaña**, también conocido como **ProfeLauta**. Soy un desarrollador full stack apasionado por la creación de soluciones digitales que combinan funcionalidad y diseño. Mi objetivo es desarrollar aplicaciones web que sean tanto eficientes como visualmente atractivas.
+¡Hola! Soy **Lautaro Montaña**, también conocido como **Profe Lauta**. Soy un desarrollador full stack apasionado por la creación de soluciones digitales que combinan funcionalidad y diseño. Mi objetivo es desarrollar aplicaciones web que sean tanto eficientes como visualmente atractivas.
 
 ---
 
@@ -27,11 +27,11 @@
 
 ### [Buscador de Productos](https://github.com/joselautaro/JS-encuentro18-cs-2202)
 
-Aplicación web que permite buscar productos utilizando Bootstrap, CSS, HTML y JavaScript. ([github.com][1])
+Aplicación web que permite buscar productos utilizando Bootstrap, CSS, HTML y JavaScript. 
 
 ### [Academia Softtek](https://github.com/joselautaro/AcademiaSofttek)
 
-Proyecto desarrollado como parte de la capacitación en la Universidad Siglo 21, enfocado en el desarrollo de aplicaciones Java. ([github.com][2])
+Proyecto desarrollado como parte de la capacitación en la Universidad Siglo 21, enfocado en el desarrollo de aplicaciones Java.
 
 ### [Registro de Usuarios](https://github.com/joselautaro/Registro-Usuarios)
 
@@ -47,7 +47,7 @@ Sistema de registro de usuarios implementado en Java, demostrando habilidades en
 
 ## 📫 Contacto
 
-* 📧 Email: profesorjoselautaro@gmail.com(mailto:profesorjoselautaro@gmail.com)
+* 📧 Email: profesorjoselautaro@gmail.com
 * 💼 LinkedIn: [Linkedin.com/Lautaro Montaña](https://ar.linkedin.com/in/lautaromontana/)
 
 ---
