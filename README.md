@@ -52,6 +52,6 @@ Sistema de registro de usuarios implementado en Java, demostrando habilidades en
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y oportunidades que me permitan seguir creciendo como desarrollador y contribuir a proyectos innovadores.
+¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y oportunidades que me permitan seguir creciendo como desarrollador e instructor y contribuir a proyectos innovadores.
 
 ---
