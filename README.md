@@ -9,7 +9,7 @@
 * 🎓 Estudiante de Seguridad Informática
 * 💼 Desarrollador web full stack con experiencia en proyectos de frontend y backend.
 * 🎯 Enfocado en la innovación y la mejora continua.
-* 🌐 Comprometido con el desarrollo de aplicaciones web accesibles y responsivas.
+* 🌐 Comprometido con el desarrollo de aplicaciones web accesibles, responsivas y seguras.
 
 ---
 
