@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-* 🎓 Estudiante avanzado de Ingeniería en Sistemas.
+* 🎓 Estudiante se Seguridad Informática
 * 💼 Desarrollador web full stack con experiencia en proyectos de frontend y backend.
 * 🎯 Enfocado en la innovación y la mejora continua.
 * 🌐 Comprometido con el desarrollo de aplicaciones web accesibles y responsivas.
